@@ -3,6 +3,8 @@
 <!--
 **jpferreiradev/jpferreiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# JP Ferreira :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)
+
+### Hellooo! 👋 Welcome to my profile
+
+My name is JP Ferreira and 127796...:
+
+ - 😄 I really like to learn
+<!-- - 📊 I'm working with Business Intelligence
+ - 📚 Currently studying Azure and LGPD
+ - 🌍 And I also like to travel !-->

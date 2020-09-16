@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is JP Ferreira and ...:
+My name is JP Ferreira and..
 
- - 😄 I really like to learn
+ - 😄 I really like to learn...
 <!-- - 📊 I'm working with Business Intelligence
  - 📚 Currently studying Azure and LGPD
  - 🌍 And I also like to travel !-->

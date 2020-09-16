@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 Welcome to my profile
 
+![JP Ferreira](https://bityli.com/4Eoay)
+
 My name is JP Ferreira and ...:
 
  - 😄 I really like to learn

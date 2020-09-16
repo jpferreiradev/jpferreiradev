@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 Welcome to my profile
 
-![JP Ferreira](https://bityli.com/4Eoay)
+![JP Ferreira]<img src="<div style='position:relative; padding-bottom:calc(81.40% + 44px)'><iframe src='https://gfycat.com/ifr/CheapHugeAustraliankelpie' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/cheaphugeaustraliankelpie">via Gfycat</a></p>>
 
 My name is JP Ferreira and ...:
 

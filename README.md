@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# JP Ferreira :man_technologist:
+# JP Ferreira :video_game:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is JP Ferreira and 127796...:
+My name is JP Ferreira and ...:
 
  - 😄 I really like to learn
 <!-- - 📊 I'm working with Business Intelligence

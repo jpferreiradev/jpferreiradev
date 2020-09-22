@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # JP Ferreira :desktop_computer:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)
-[![Gmail Badge](https://img.shields.io/badge/-jpferreira.dev@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpferreira.dev@gmail.com)](mailto:jpferreira.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jpferreira.dev@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpferreira.dev@gmail.com)](mailto:jpferreira.dev@gmail.com)
 
 ### Hellooo! 👋 Welcome to my profile
 

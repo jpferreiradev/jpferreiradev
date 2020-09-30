@@ -9,9 +9,9 @@
 - I'm learning mobile Android 📚
 - Love:
  🎮Video-games
-🚲Bike
-🍣Sushi
-🏖️Beach
+ 🚲Bike
+ 🍣Sushi
+ 🏖️Beach
 
 ➣ Talk to me 🔗
 

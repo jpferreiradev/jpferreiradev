@@ -1,32 +1,19 @@
-### Hi there 👋
+### Hello, welcome to my profile! ✌️
 
-<!--
-**jpferreiradev/jpferreiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➣ My name is JP Ferreira, I'am a fullstack developer and i have experience with these technologies:
 
+ ➡️Java
+ ➡️Spring
+ ➡️Angular
 
+- I'm learning mobile Android 📚
+- Love:
+ 🎮Video-games
+🚲Bike
+🍣Sushi
+🏖️Beach
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# JP Ferreira :desktop_computer:
+➣ Talk to me 🔗
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)
 [![Gmail Badge](https://img.shields.io/badge/-jpferreira.dev@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpferreira.dev@gmail.com)](mailto:jpferreira.dev@gmail.com)
-
-### Hellooo! 👋 Welcome to my profile
-
-My name is JP Ferreira and..
-
- - 😄 I really like to learn...
-<!-- - 📊 I'm working with Business Intelligence
- - 📚 Currently studying Azure and LGPD
- - 🌍 And I also like to travel !-->

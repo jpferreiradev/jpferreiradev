@@ -2,9 +2,9 @@
 
 ➣ My name is JP Ferreira, I'am a fullstack developer and i have experience with these technologies:
 
- ![Java](https://img.shields.io/badge/-Java-369?style=flat&logoColor=fff&logo=java)&nbsp;
- ➡️Spring
- ➡️Angular
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
 - I'm learning mobile Android 📚
 - Love:
@@ -14,7 +14,7 @@
  🏖️Beach
 
 
-[![JP Ferreira github stats](https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=blue-green)](https://github.com/jpferreiradev/github-readme-stats)
+[![JP Ferreira github stats](https://github-readme-stats.vercel.app/api?username=jpferreiradev)](https://github.com/jpferreiradev/github-readme-stats)
 
 
 

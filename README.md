@@ -2,7 +2,7 @@
 
 ➣ My name is JP Ferreira, I'am a fullstack developer and i have experience with these technologies:
 
- ➡️Java
+ ![Java](https://img.shields.io/badge/-Java-369?style=flat&logoColor=fff&logo=java)&nbsp;
  ➡️Spring
  ➡️Angular
 

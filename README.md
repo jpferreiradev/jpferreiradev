@@ -1,6 +1,7 @@
 ### Hello, welcome to my profile! ✌️
 
-➣ My name is JP Ferreira, I'am a fullstack developer and i have experience with these technologies:
+➣ **My name is JP Ferreira, I'am a fullstack developer and i have experience with these technologies:**
+
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>

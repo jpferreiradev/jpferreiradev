@@ -12,8 +12,7 @@
  🏖️Beach
 
 
-[![JP Ferreira github stats](https://github-readme-stats.vercel.app/api?username=jpferreiradev)](https://github.com/jpferreiradev/github-readme-stats)
-
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&show_icons=true&count_private=true&theme=dark"></a>
 
 
 ➣ **Talk to me** 🔗

@@ -10,6 +10,7 @@
  🚲Bike
  🍣Sushi
  🏖️Beach
+ <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="18" height="18"> Batman fan
 
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&show_icons=true&count_private=true&theme=dark"></a>

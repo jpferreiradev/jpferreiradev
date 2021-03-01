@@ -12,7 +12,7 @@
  🏖️Beach
  <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="20" height="20"> Batman fan
 
-
+<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&hide=html&layout=compact&theme=dark" /></td>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&show_icons=true&count_private=true&theme=dark"></a>
 
 

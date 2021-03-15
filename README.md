@@ -12,8 +12,8 @@
  🏖️Beach
  <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="20" height="20"> Batman fan
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&count_private=true&show_icons=true&title_color=4bf06c9&icon_color=4bf06c9&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&theme=dark&layout=compact&show_icons=true&title_color=4bf06c9&icon_color=4bf06c9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ➣ **Talk to me** 🔗

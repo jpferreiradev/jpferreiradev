@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
-- **I'm learning mobile Android**📚
+- **I'm learning Angular and Spring Boot.**📚
 - **Love:**
  🎮Video-games
  🚲Bike

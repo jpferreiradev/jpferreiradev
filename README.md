@@ -6,7 +6,6 @@
 
 - **I'm learning:** **Studying to improve my knowledge with the front-end.** 
                         
-
 - **Love:** 
  🎮**Video-games**
  🚲**Bike**
@@ -22,3 +21,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmaillogoColor=whitelink=mailto:jpferreira.dev@gmail.com)](mailto:jpferreira.dev@gmail.com)
+<img src="http://views.whatilearened.today/views/github/jpferreiradev/views.svg"/>

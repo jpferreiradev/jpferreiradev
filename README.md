@@ -1,10 +1,10 @@
 ### Hello, welcome to my profile!
 
-➣ **My name is JP Ferreira, I am a fullstack developer Junior and I have experiences with this technology:**
+➣ **My name is JP Ferreira, I am a Junior fullstack developer and I have basic experiences with these technologies:**
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
-**I'm learning:** <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> 
+**I'm learning:** <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                         
 - **Love:** 
  🎮**Video-games**
@@ -22,3 +22,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43//)](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-33943a43)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmaillogoColor=whitelink=mailto:jpferreira.dev@gmail.com)](mailto:jpferreira.dev@gmail.com)
 <img src="http://views.whatilearened.today/views/github/jpferreiradev/views.svg"/>
+<img src="https://img.shields.io/github/followers/{jpferreiradev}.svg?style=social&label=Follow&maxAge=2592000"/>

@@ -13,8 +13,18 @@
  🏖️**Beach**
  <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="20" height="20"> **Batman fan**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&count_private=true&show_icons=true&title_color=f38902c9&icon_color=f38902c9&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&theme=dark&layout=compact&show_icons=true&title_color=f38902c9&icon_color=f38902c9)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpferreiradev&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jpferreiradev&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jpferreiradev&theme=github" />
+  </a>
+</div>
+
 
 
 ➣ **Talk to me** 🔗

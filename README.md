@@ -15,9 +15,6 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpferreiradev&theme=github_dark" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jpferreiradev&theme=github_dark" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">

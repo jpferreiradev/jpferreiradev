@@ -1,6 +1,6 @@
 ### Hello, welcome to my profile!
 
-➣ **My name is JP Ferreira, I am a Junior fullstack developer and I have basic experiences with these technologies:**
+➣ **My name is JP Ferreira, I am a Junior back-end developer and I have basic experiences with these technologies:**
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 

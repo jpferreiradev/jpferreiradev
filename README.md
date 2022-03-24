@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
-**I'm learning:** <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+**I'm learning:** <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
                         
 - **Love:** 
  🎮**Video-games**
@@ -13,15 +13,14 @@
  🏖️**Beach**
  <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="20" height="20"> **Batman fan**
 
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jpferreiradev&theme=github_dark" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jpferreiradev&theme=github_dark" />
-  </a>
-</div>
 
+<a href="https://github.com/jpferreiradev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&show_icons=true&repo=github-readme-stats" />
+</a>
+
+<a href="https://github.com/jpferreiradev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&hide=tex&layout=compact&theme=dark&repo=github-readme-stats" />
+</a>
 
 ➣ **Talk to me** 🔗
 

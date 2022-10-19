@@ -6,7 +6,37 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jpferreiradev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 ➣ **My name is JP Ferreira, I am a Junior back-end developer and I have basic experiences with these:**
+  ### Languages
+  
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></td>
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></td>
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></td>
+<br/>
 
-| **Technologies:** |
-|:-|--|
-|<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img align="center" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> | <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />|<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />|<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />|<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />|
+### Tools
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Postgresql" width="30px"style="padding-right:10x;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<br/>
+
+### Love: 
+ 🎮 **Video-games**
+ 🚲 **Bike**
+ 🍣 **Sushi**
+ 🏖️ **Beach**
+ <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="20" height="20"> **Batman fan**
+ 
+<div align="center">
+<a href="https://github.com/jpferreiradev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&show_icons=true&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/jpferreiradev/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&hide=tex&layout=compact&theme=dark&repo=github-readme-stats" />
+</a>
+</div> 
+
+

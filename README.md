@@ -32,12 +32,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
  
 <div align="center">
 <a href="https://github.com/jpferreiradev/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&show_icons=true&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&show_icons=true&repo=github-readme-stats" />
 </a>
 </div>
 <div align="center">
 <a href="https://github.com/jpferreiradev/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&hide=tex&layout=compact&theme=dark&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&hide=tex&layout=compact&theme=dark&repo=github-readme-stats" />
 </a>
 </div> 
 

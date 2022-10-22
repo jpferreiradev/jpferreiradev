@@ -30,12 +30,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
  🏖️ **Beach**
  <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="20" height="20"> **Batman fan**
  
-<div align="right">
+<div align="center">
 <a href="https://github.com/jpferreiradev/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&show_icons=true&repo=github-readme-stats" />
 </a>
 </div>
-<div align="left">
+<div align="center">
 <a href="https://github.com/jpferreiradev/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&hide=tex&layout=compact&theme=dark&repo=github-readme-stats" />
 </a>

@@ -3,7 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmaillogoColor=whitelink=mailto:jpferreira.dev@gmail.com)](mailto:jpferreira.dev@gmail.com)
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jpferreiradev&repo=jpferreiradev&countColorcountColor)
 <a href="https://github.com/jpferreiradev?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jpferreiradev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
 ➣ **My name is JP Ferreira, I am a Junior back-end developer and I have basic experiences with these:**
   ### Languages

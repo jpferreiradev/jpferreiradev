@@ -30,8 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
  <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="20" height="20"> **Batman fan**
  
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&layout=compact&langs_count=7&theme=react"/>
-  <img left="200em" src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img left="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 

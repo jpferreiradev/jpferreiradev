@@ -31,7 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
  
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&layout=compact&langs_count=7&theme=react"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img left="200em" src="https://github-readme-stats.vercel.app/api?username=jpferreiradev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </div>
 
 

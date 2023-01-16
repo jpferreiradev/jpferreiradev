@@ -28,10 +28,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
  🍣 **Sushi**
  🏖️ **Beach**
  <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="20" height="20"> **Batman fan**
- 
-<div align="center">
-  <img left="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&layout=compact&langs_count=7&theme=react"/>
-</div>
-
-
-

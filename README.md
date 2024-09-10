@@ -4,8 +4,8 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jpferreiradev&repo=jpferreiradev&countColorcountColor)
 <a href="https://github.com/jpferreiradev?tab=repositories&sort=stargazers">
 
-➣ **My name is JP Ferreira, I am a Junior back-end developer and I have basic experiences with these:**
-  ### Languages
+➣ ***My name is JP Ferreira, I am a back-end developer and I have experience with these technologies and tools:**
+  ### Languages:
   
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -16,7 +16,7 @@
 </td>
 <br/>
 
-### Tools
+### Tools:
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />

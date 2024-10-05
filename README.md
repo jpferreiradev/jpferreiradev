@@ -14,7 +14,7 @@
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
 
-<br><br>
+<br>
 
 ### Tools:
 <div style="display: inline-block;">

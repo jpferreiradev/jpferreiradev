@@ -32,3 +32,5 @@
  🍣 **Sushi**
  🏖️ **Beach**
  <img src="https://img.icons8.com/color/48/000000/batman-old.png" width="20" height="20"> **Batman fan**
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

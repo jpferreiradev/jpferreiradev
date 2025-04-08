@@ -5,9 +5,14 @@
 ➣ ***My name is JP Ferreira, I am a back-end developer and I have experience with these technologies and tools:***
 
 ### Languages:
+### Back-end:
 <div style="display: inline-block;">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
+</div>
+
+### Front-end:
+<div style="display: inline-block;">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
@@ -26,4 +31,5 @@
 
 <br/>
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![JP Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

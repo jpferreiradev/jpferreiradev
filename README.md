@@ -22,6 +22,7 @@
 <br>
 
 ### Tools:
+
 <div style="display: inline-block;">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
@@ -31,5 +32,13 @@
 
 <br/>
 
-![JP Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=jpferreiradev&theme=dark&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jpferreiradev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr style="background-color: #161B22;">
+</tr>
+  <tr>
+    <td><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpferreiradev&theme=react&bg_color=161B22&hide_border=true"/> </a></td>
+    <td><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jpferreiradev&layout=compact&theme=react&&bg_color=161B22&hide_border=true"/> </a></td>
+  </tr>
+</table>
+
+</div>

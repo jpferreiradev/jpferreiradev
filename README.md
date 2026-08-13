@@ -34,14 +34,4 @@
 </div>
 
 <br/>
-
-<table>
-  <tr style="background-color: #161B22;">
-</tr>
-  <tr>
-    <td><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpferreiradev&theme=react&bg_color=161B22&hide_border=true"/> </a></td>
-    <td><a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jpferreiradev&layout=compact&theme=react&&bg_color=161B22&hide_border=true"/> </a></td>
-  </tr>
-</table>
-
 </div>
